@@ -43,3 +43,5 @@
 		echo packer($script);
 	?>
 	</script>
+	
+# The output is obfuscated javascript code above
